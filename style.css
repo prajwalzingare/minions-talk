@@ -6,7 +6,7 @@ body {
     height: 75px;
     padding: 2vw;
     color: white;
-    background-color: rgb(139, 206, 62);
+    background-color: rgb(201, 62, 206);
     margin-bottom: 2vw;
   }
   #txtinput {
@@ -24,7 +24,7 @@ body {
     resize: none;
   }
   .btn-lg {
-    background-color: rgb(238, 206, 61);
+    background-color: rgb(201, 62, 206);
     margin-bottom: 2vw;
   }
   
